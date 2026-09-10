@@ -1,31 +1,21 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.1",
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
 
   "updateNotice": {
     "title": "新しいバージョンがあります",
-    "message": "よりよりより使いやすくなった最新版をご利用いただけます。",
-    "updateButton": "アップデートするよ",
-    "laterButton": "キャンセル"
+    "message": "より使いやすくなった最新版をご利用いただけます。",
+    "updateButton": "アップデートする",
+    "laterButton": "あとで"
   },
-  
+
   "notices": [
     {
       "id": "2026-09-10-release",
-      "title": "のこらをリリースしました",
+      "title": "週予算 のこらをリリースしました",
       "date": "2026-09-10",
       "summary": "週予算を中心に、今週あといくら使えるかを分かりやすく確認できる家計管理アプリです。",
       "url": "https://harapecoful.github.io/week-budget-support/news/test.html"
-    },
-    {
-      "id": "2026-09-20-future-test-2",
-      "title": "公開日時テスト",
-      "date": "2026-09-20",
-      "publishAt": "2026-09-09T09:00:00+09:00",
-      "expiresAt": "2026-09-30T23:59:59+09:00",
-      "summary": "このお知らせは指定日時になるまで表示されないテスト記事です。",
-      "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html",
-      "isPublished": true
     }
   ]
 }
