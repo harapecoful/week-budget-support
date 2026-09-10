@@ -14,10 +14,10 @@
       "title": "公開日時テスト",
       "date": "2026-09-20",
       "publishAt": "2026-09-09T09:00:00+09:00",
+      "expiresAt": "2026-09-30T23:59:59+09:00",
       "summary": "このお知らせは指定日時になるまで表示されないテスト記事です。",
       "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html",
       "isPublished": true,
-      "expiresAt": "2026-09-09T23:59:59+09:00"
     }
   ]
 }
