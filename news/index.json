@@ -1,6 +1,14 @@
 {
   "latestVersion": "1.0.2",
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
+
+  "updateNotice": {
+    "title": "新しいバージョンがあります",
+    "message": "よりより使いやすくなった最新版をご利用いただけます。",
+    "updateButton": "アップデートする",
+    "laterButton": "あとで"
+  },
+
   "notices": [
     {
       "id": "2026-09-10-release",
@@ -17,7 +25,7 @@
       "expiresAt": "2026-09-30T23:59:59+09:00",
       "summary": "このお知らせは指定日時になるまで表示されないテスト記事です。",
       "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html",
-      "isPublished": true,
+      "isPublished": true
     }
   ]
 }
