@@ -8,6 +8,15 @@
       "date": "2026-09-10",
       "summary": "週予算を中心に、今週あといくら使えるかを分かりやすく確認できる家計管理アプリです。",
       "url": "https://harapecoful.github.io/week-budget-support/news/test.html"
+    },
+    {
+      "id": "2026-09-20-future-test",
+      "title": "公開日時テスト",
+      "date": "2026-09-20",
+      "publishAt": "2026-09-20T09:00:00+09:00",
+      "summary": "このお知らせは指定日時になるまで表示されないテスト記事です。",
+      "url": "https://harapecoful.github.io/week-budget-support/news/test.html",
+      "isPublished": true
     }
   ]
 }
