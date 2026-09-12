@@ -14,12 +14,14 @@
       "id": "2026-09-12-icloud-backup",
       "title": "iCloudバックアップ機能を追加しました",
       "date": "2026-09-12",
+      "summary": "大切な家計データをiCloudにバックアップできるようになりました。",
       "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-12-icloud-backup.html"
     },
     {
       "id": "2026-09-06-release",
       "title": "週予算 のこらをリリースしました",
       "date": "2026-09-06",
+      "summary": "週予算を中心に、今週あといくら使えるかを分かりやすく確認できる家計管理アプリです。",
       "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-06-release.html"
     }
   ]
