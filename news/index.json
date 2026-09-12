@@ -3,9 +3,10 @@
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
 
   "updateNotice": {
-    "title": "☁️ iCloudバックアップに対応しました",
-    "message": "大切な家計データをiCloudにバックアップできるようになりました。「設定」からご利用いただけます。",
-    "updateButton": "OK"
+    "title": "新しいバージョンがあります",
+    "message": "より使いやすくなった最新版をご利用いただけます。",
+    "updateButton": "アップデートする",
+    "laterButton": "あとで"
   },
 
   "notices": [
