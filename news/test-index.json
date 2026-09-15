@@ -3,7 +3,7 @@
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
 
   "popupNotice": {
-    "id": "popup-test-001",
+    "id": "popup-test-002",
     "title": "テストのお知らせ",
     "message": "通常のお知らせポップアップの表示テストです。",
     "button": "閉じる",
