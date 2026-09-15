@@ -1,9 +1,9 @@
 {
-  "latestVersion": "9.9.10",
+  "latestVersion": "9.9.11",
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
 
   "updateNotice": {
-    "title": "新しいバージョンがあります",
+    "title": "新しいバージョンがありますよ",
     "message": "より使いやすくなった最新版をご利用いただけます。",
     "updateButton": "アップデートする",
     "laterButton": "あとで"
