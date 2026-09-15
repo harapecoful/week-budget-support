@@ -4,11 +4,12 @@
 
   "notices": [
     {
-      "id": "2026-09-15-test",
-      "title": "お知らせ機能のテストです",
+      "id": "2026-09-15-publish-test",
+      "title": "予約公開テスト",
       "date": "2026-09-15",
-      "summary": "テスト用のお知らせが正しく表示されるか確認しています。",
-      "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html"
+      "summary": "指定した時刻になると表示されるテストです。",
+      "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html",
+      "publishAt": "2026-09-15T18:15:00+09:00"
     }
   ]
 }
