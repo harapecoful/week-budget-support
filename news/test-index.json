@@ -7,7 +7,7 @@
     "title": "テストのお知らせ",
     "message": "通常のお知らせポップアップの表示テストです。",
     "button": "閉じる",
-    "isPublished": true
+    "isPublished": false
   },
 
   "notices": [
