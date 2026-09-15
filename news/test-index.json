@@ -9,7 +9,7 @@
       "date": "2026-09-15",
       "summary": "指定した時刻になると表示されるテストです。",
       "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html",
-      "publishAt": "2026-09-15T18:15:00+09:00"
+      "expiresAt": "2026-09-15T18:23:00+09:00"
     }
   ]
 }
