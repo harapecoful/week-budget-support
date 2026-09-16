@@ -1,29 +1,28 @@
 {
-  "latestVersion": "9.9.11",
+  "latestVersion": "1.0.1",
   "appStoreURL": "https://apps.apple.com/jp/app/%E9%80%B1%E4%BA%88%E7%AE%97-%E3%81%AE%E3%81%93%E3%82%89/id6805061985",
 
   "updateNotice": {
-    "title": "新しいバージョンがありますよ",
+    "title": "新しいバージョンがあります",
     "message": "より使いやすくなった最新版をご利用いただけます。",
     "updateButton": "アップデートする",
     "laterButton": "あとで"
-    
   },
 
   "notices": [
     {
-      "id": "2026-09-16-expense-calculator",
-      "title": "支出入力がもっと使いやすくなりました",
-      "date": "2026-09-16",
-      "summary": "支出入力の電卓機能を改善し、金額入力がよりスムーズになりました。",
-      "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-16-expense-calculator.html"
+      "id": "2026-09-12-icloud-backup",
+      "title": "iCloudバックアップ機能を追加しました",
+      "date": "2026-09-12",
+      "summary": "大切な家計データをiCloudにバックアップできるようになりました。",
+      "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-12-icloud-backup.html"
     },
     {
-      "id": "2026-09-15-unread-test",
-      "title": "未読表示テスト",
-      "date": "2026-09-15",
-      "summary": "NEW表示と既読状態を確認するためのテストです。",
-      "url": "https://harapecoful.github.io/week-budget-support/news/future-test.html"
+      "id": "2026-09-06-release",
+      "title": "週予算 のこらをリリースしました",
+      "date": "2026-09-06",
+      "summary": "週予算を中心に、今週あといくら使えるかを分かりやすく確認できる家計管理アプリです。",
+      "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-06-release.html"
     }
   ]
 }
