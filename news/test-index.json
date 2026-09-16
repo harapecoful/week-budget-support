@@ -12,6 +12,13 @@
 
   "notices": [
     {
+      "id": "2026-09-16-expense-calculator",
+      "title": "支出入力がもっと使いやすくなりました",
+      "date": "2026-09-16",
+      "summary": "支出入力の電卓機能を改善し、金額入力がよりスムーズになりました。",
+      "url": "https://harapecoful.github.io/week-budget-support/news/2026-09-16-expense-calculator.html"
+    },
+    {
       "id": "2026-09-15-unread-test",
       "title": "未読表示テスト",
       "date": "2026-09-15",
